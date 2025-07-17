@@ -1,0 +1,243 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+
+Inactive Modules:
+  1) xalt
+
+
+Currently Loaded Modules:
+  1) gmp/6.2.1    4) zlib/1.2.11      7) openmpi/4.0.6
+  2) mpfr/3.1.6   5) gcc/8.4.1        8) cuda/11.2.2
+  3) mpc/1.1.0    6) numactl/2.0.14   9) modtree/gpu
+
+Inactive Modules:
+  1) xalt
+
+ 
+
+WARNING:__main__:
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py:111: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py:111: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Using the latest cached version of the dataset since trl-lib/tldr couldn't be found on the Hugging Face Hub
+Found the latest cached dataset configuration 'default' at /home/x-cli32/chaohan/huggingface/datasets/trl-lib___tldr/default/0.0.0/21233da376667088e6eb1ce4ce19ed832c2935d3 (last modified on Mon Jul 14 12:18:47 2025).
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/datasets/trl-lib/tldr/resolve/main/README.md
+Using the latest cached version of the dataset since trl-lib/tldr couldn't be found on the Hugging Face Hub
+Found the latest cached dataset configuration 'default' at /home/x-cli32/chaohan/huggingface/datasets/trl-lib___tldr/default/0.0.0/21233da376667088e6eb1ce4ce19ed832c2935d3 (last modified on Mon Jul 14 12:18:47 2025).
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1533, in _get_metadata_or_catch_error
+[rank1]:     metadata = get_hf_file_metadata(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+[rank1]:     return fn(*args, **kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1450, in get_hf_file_metadata
+[rank1]:     r = _request_wrapper(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 286, in _request_wrapper
+[rank1]:     response = _request_wrapper(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 309, in _request_wrapper
+[rank1]:     response = http_backoff(method=method, url=url, **params, retry_on_exceptions=(), retry_on_status_codes=(429,))
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_http.py", line 317, in http_backoff
+[rank1]:     response.raise_for_status()  # Will raise uncaught exception
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/requests/models.py", line 1026, in raise_for_status
+[rank1]:     raise HTTPError(http_error_msg, response=self)
+[rank1]: requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+
+[rank1]: The above exception was the direct cause of the following exception:
+
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 470, in cached_files
+[rank1]:     hf_hub_download(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+[rank1]:     return fn(*args, **kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1008, in hf_hub_download
+[rank1]:     return _hf_hub_download_to_cache_dir(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1115, in _hf_hub_download_to_cache_dir
+[rank1]:     _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1648, in _raise_on_head_call_error
+[rank1]:     raise LocalEntryNotFoundError(
+[rank1]: huggingface_hub.errors.LocalEntryNotFoundError: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+
+[rank1]: The above exception was the direct cause of the following exception:
+
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/anvil/scratch/x-cli32/projects/trl/test_grpo.py", line 20, in <module>
+[rank1]:     trainer = GRPOTrainer(
+[rank1]:   File "/anvil/scratch/x-cli32/projects/trl/trl/trainer/grpo_trainer.py", line 437, in __init__
+[rank1]:     model = AutoModelForCausalLM.from_pretrained(model, **model_init_kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/models/auto/auto_factory.py", line 547, in from_pretrained
+[rank1]:     config, kwargs = AutoConfig.from_pretrained(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/models/auto/configuration_auto.py", line 1197, in from_pretrained
+[rank1]:     config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/configuration_utils.py", line 608, in get_config_dict
+[rank1]:     config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/configuration_utils.py", line 667, in _get_config_dict
+[rank1]:     resolved_config_file = cached_file(
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 312, in cached_file
+[rank1]:     file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+[rank1]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 543, in cached_files
+[rank1]:     raise OSError(
+[rank1]: OSError: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+[rank1]: Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+HTTP Error 429 thrown while requesting HEAD https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1533, in _get_metadata_or_catch_error
+[rank0]:     metadata = get_hf_file_metadata(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+[rank0]:     return fn(*args, **kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1450, in get_hf_file_metadata
+[rank0]:     r = _request_wrapper(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 286, in _request_wrapper
+[rank0]:     response = _request_wrapper(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 309, in _request_wrapper
+[rank0]:     response = http_backoff(method=method, url=url, **params, retry_on_exceptions=(), retry_on_status_codes=(429,))
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_http.py", line 317, in http_backoff
+[rank0]:     response.raise_for_status()  # Will raise uncaught exception
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/requests/models.py", line 1026, in raise_for_status
+[rank0]:     raise HTTPError(http_error_msg, response=self)
+[rank0]: requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://huggingface.co/Qwen/Qwen2-0.5B-Instruct/resolve/main/config.json
+
+[rank0]: The above exception was the direct cause of the following exception:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 470, in cached_files
+[rank0]:     hf_hub_download(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+[rank0]:     return fn(*args, **kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1008, in hf_hub_download
+[rank0]:     return _hf_hub_download_to_cache_dir(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1115, in _hf_hub_download_to_cache_dir
+[rank0]:     _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/huggingface_hub/file_download.py", line 1648, in _raise_on_head_call_error
+[rank0]:     raise LocalEntryNotFoundError(
+[rank0]: huggingface_hub.errors.LocalEntryNotFoundError: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+
+[rank0]: The above exception was the direct cause of the following exception:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/anvil/scratch/x-cli32/projects/trl/test_grpo.py", line 20, in <module>
+[rank0]:     trainer = GRPOTrainer(
+[rank0]:   File "/anvil/scratch/x-cli32/projects/trl/trl/trainer/grpo_trainer.py", line 437, in __init__
+[rank0]:     model = AutoModelForCausalLM.from_pretrained(model, **model_init_kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/models/auto/auto_factory.py", line 547, in from_pretrained
+[rank0]:     config, kwargs = AutoConfig.from_pretrained(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/models/auto/configuration_auto.py", line 1197, in from_pretrained
+[rank0]:     config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/configuration_utils.py", line 608, in get_config_dict
+[rank0]:     config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/configuration_utils.py", line 667, in _get_config_dict
+[rank0]:     resolved_config_file = cached_file(
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 312, in cached_file
+[rank0]:     file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+[rank0]:   File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/transformers/utils/hub.py", line 543, in cached_files
+[rank0]:     raise OSError(
+[rank0]: OSError: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+[rank0]: Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+E0715 12:59:06.554622 1735142 /anvil/scratch/x-cli32/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/api.py:869] failed (exitcode: 1) local_rank: 0 (pid: 1735145) of binary: /home/x-cli32/chaohan/anaconda3/envs/trl_env/bin/python
+Traceback (most recent call last):
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/run.py", line 923, in <module>
+    main()
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 355, in wrapper
+    return f(*args, **kwargs)
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/run.py", line 919, in main
+    run(args)
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/run.py", line 910, in run
+    elastic_launch(
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 138, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/x-cli32/chaohan/anaconda3/envs/trl_env/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 269, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+test_grpo.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2025-07-15_12:59:06
+  host      : h004.anvil.rcac.purdue.edu
+  rank      : 1 (local_rank: 1)
+  exitcode  : 1 (pid: 1735146)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-07-15_12:59:06
+  host      : h004.anvil.rcac.purdue.edu
+  rank      : 0 (local_rank: 0)
+  exitcode  : 1 (pid: 1735145)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
